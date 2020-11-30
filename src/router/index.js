@@ -16,4 +16,4 @@ const routes = [
     component: todoView
   }
 ];
-export default new Router({ routes, mode: 'history' })
+export default new Router({ routes })
